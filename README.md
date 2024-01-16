@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="[https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler](https://www.freecodecamp.org/learn/relational-database/learn-git-by-building-an-sql-reference-object/build-an-sql-reference-object)">
+    <a href="https://www.freecodecamp.org/learn/relational-database/learn-git-by-building-an-sql-reference-object/build-an-sql-reference-object">
       Tutorial
     </a>
   </h3>
@@ -31,5 +31,5 @@ This is the result of following a 240-lesson course, where I learned how Git kee
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Git]([https://www.postgresql.org/](https://git-scm.com/)https://git-scm.com/)
+- [Git](https://www.postgresql.org/](https://git-scm.com/)https://git-scm.com/)
 
