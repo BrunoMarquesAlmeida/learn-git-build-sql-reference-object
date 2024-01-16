@@ -31,5 +31,5 @@ This is the result of following a 240-lesson course, where I learned how Git kee
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Git](https://www.postgresql.org/](https://git-scm.com/)https://git-scm.com/)
+- [Git](https://git-scm.com/)
 
